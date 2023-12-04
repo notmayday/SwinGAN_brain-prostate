@@ -36,7 +36,7 @@ cd SwinGAN_brain-prostate
 The data of this work is based on fastMRI T2 dataset for brain and prostate. It can be applied through [fastMRI](https://fastmri.med.nyu.edu/).
 <br />
 
-The raw fastMRI H5 files necessitate pre-processing before further utilization. An illustrative example is provided within the pre-processing folder.
+The raw [fastMRI](https://fastmri.med.nyu.edu/) H5 files necessitate pre-processing before further utilization. An illustrative example is provided within the pre-processing folder.
 
 ## Train
 ```
