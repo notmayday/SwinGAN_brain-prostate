@@ -45,9 +45,11 @@ python3 train.py
 ## Test
 
 <br />
+```
 
 python3 difference_poisson.py 
 
+```
 <br />
 <br />
 
@@ -60,4 +62,4 @@ You are encouraged to modify/distribute this code. However, please acknowledge t
 
 # Acknowledgements
 
-This code uses libraries from [KIGAN], [SwinTransformer],[PatchGAN],[SwinGAN] repositories.
+This code uses libraries from [KIGAN](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks), [SwinGAN](https://github.com/learnerzx/SwinGAN) repositories.
