@@ -28,9 +28,12 @@ ninja
 ## Installation
 - Clone this repo:
 ```bash
-git clone https://github.com/learnerzx/SwinGAN
-cd SwinGAN
+git clone https://github.com/notmayday/SwinGAN_brain-prostate
+cd SwinGAN_brain-prostate
 ```
+
+## Data
+The data of this work is based on fastMRI T2 dataset for brain and prostate. It can be applied through [fastMRI](https://fastmri.med.nyu.edu/).
 
 ## Train
 ```
