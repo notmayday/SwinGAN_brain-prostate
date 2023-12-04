@@ -49,6 +49,7 @@ python3 difference_poisson.py
 ## Trained checkpoint download
 
 We have established two checkpoints based on our ongoing work. For optimal results, we recommend training your own SwinGAN model.
+<br />
 [Brain_T2_poisson_30%](https://drive.google.com/file/d/1tXT0GCe8CQoDE2vj5v5v8_QgS0wKpLzP/view?usp=drive_link)
 <br />
 [Prostate_T2_poisson_30%](https://drive.google.com/file/d/1bBSJblid7wjS7EA24NSKY_t8a5-x6VWy/view?usp=drive_link)
