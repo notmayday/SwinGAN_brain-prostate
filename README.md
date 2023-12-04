@@ -50,5 +50,7 @@ You are encouraged to modify/distribute this code. However, please acknowledge t
 
 ## Acknowledgements
 ```
+
 This code uses libraries from [Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks) and [SwinGAN](https://github.com/learnerzx/SwinGAN) repositories.
+
 ```
