@@ -50,8 +50,7 @@ python3 train.py
 python3 difference_poisson.py 
 
 ```
-<br />
-<br />
+
 
 
 # Citation
@@ -62,4 +61,4 @@ You are encouraged to modify/distribute this code. However, please acknowledge t
 
 # Acknowledgements
 
-This code uses libraries from [KIGAN](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks), [SwinGAN](https://github.com/learnerzx/SwinGAN) repositories.
+This code uses libraries from [Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks](https://github.com/ItamarDavid/Subsampled-Brain-MRI-Reconstruction-by-Generative-Adversarial-Neural-Networks), [SwinGAN](https://github.com/learnerzx/SwinGAN) repositories.
