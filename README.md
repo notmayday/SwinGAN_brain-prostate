@@ -1,6 +1,6 @@
 # SwinGAN
 
-Official PyTorch implementation of SwinGAN described in the paper "Exploring SwinGAN for Accelerated MRI Reconstruction: Remarkable Noise Suppression".
+Official PyTorch implementation of SwinGAN described in the paper "Exploring SwinGAN for Accelerated MRI Reconstruction: Remarkable Noise Suppression in K-space".
 
 <div align="center">
 <img src="./asserts/framework.png" width="800px">
