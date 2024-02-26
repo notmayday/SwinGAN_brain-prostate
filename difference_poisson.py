@@ -61,7 +61,7 @@ def get_args():
     args = SimpleNamespace(**data)
 
     args.masked_kspace = True
-    args.mask_path = '/home/samuel/SwinGAN-main/Masks/poisson/poisson_{}_{}_{}.mat'.format(args.img_size, args.img_size, args.sampling_percentage)
+    args.mask_path = './Masks/poisson/poisson_{}_{}_{}.mat'.format(args.img_size, args.img_size, args.sampling_percentage)
     pprint(data)
 
     return args
