@@ -1,6 +1,6 @@
 # SwinGAN
 
-Official PyTorch implementation of SwinGAN described in the paper "Exploring Swin-Transformer-Based Generative Adversial Network for Dual-domain MRI Reconstruction: Advancements in K-space Noise Suppression". Currently it is under review.
+Official PyTorch implementation of SwinGAN described in the paper "Research on MRI reconstruction and K-space noise suppression using SwinGAN". Currently it is under review.
 
 <div align="center">
 <img src="./asserts/framework.png" width="800px">
